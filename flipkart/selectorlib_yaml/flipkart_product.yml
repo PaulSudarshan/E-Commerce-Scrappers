@@ -1,0 +1,20 @@
+Brand:
+    css: span._2J4LW6
+    xpath: null
+    type: Text
+name:
+    css: span._35KyD6
+    xpath: null
+    type: Text
+price:
+    css: 'div._2i1QSc div._1vC4OE'
+    xpath: null
+    type: Text
+Original_price:
+    css: 'div._2i1QSc div._3auQ3N'
+    xpath: null
+    type: Text
+category:
+    css: 'div._1HEvv0:nth-of-type(5) a._1KHd47'
+    xpath: null
+    type: Text

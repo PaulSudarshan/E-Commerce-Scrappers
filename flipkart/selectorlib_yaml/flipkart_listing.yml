@@ -1,0 +1,30 @@
+Product:
+    css: 'div._3O0U0u > div'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        Brand:
+            css: div._2B_pmu
+            xpath: null
+            type: Text
+        Title:
+            css: a._2mylT6
+            xpath: null
+            type: Text
+        Price_latest:
+            css: div._1vC4OE
+            xpath: null
+            type: Text
+        Original_price:
+            css: div._3auQ3N
+            xpath: null
+            type: Text
+        Sizes:
+            css: div._3V_vUN
+            xpath: null
+            type: Text
+next_page:
+    css: 'a._3fVaIS:nth-of-type(12)'
+    xpath: null
+    type: Link
